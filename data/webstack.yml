@@ -108,7 +108,7 @@
         - title: clash-verge-rev
           logo: 
           url: https://github.com/clash-verge-rev/clash-verge-rev
-          description: Clash Verge的接管延续版，基于 Tauri ，对UI进行了优化，操作更加置观。
+          description: Clash Verge的接管延续版
         - title: NEXT
           logo: images/logos/NEXT.png
           url: https://next.36kr.com/posts
