@@ -100,10 +100,10 @@
       description: UI设计师学习交流社区
     
 
-- taxonomy: 灵感采集
+- taxonomy: 代理工具
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 发现产品
+    - term: Windows
       links:
         - title: Producthunt
           logo: images/logos/producthunt.png
@@ -130,7 +130,7 @@
           url: https://faxian.appinn.com/
           description: 在这里发现更多有趣的应用
       
-    - term: 界面灵感
+    - term: macOS
       links:
         - title: Pttrns
           logo: images/logos/Pttrns.png
@@ -149,7 +149,7 @@
           url: https://androidniceties.tumblr.com/
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
       
-    - term: 网页灵感
+    - term: iOS
       links:
         - title: Awwwards
           logo: images/logos/awwwards.png
@@ -207,6 +207,9 @@
           logo: images/logos/ReallyGoodUX.png
           url: https://www.reallygoodux.io/
           description: A library of screenshots and examples of really good UX. Brought to you by
+          
+    - term: Android
+          
 
       
 - taxonomy: 素材资源
