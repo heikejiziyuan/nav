@@ -113,22 +113,18 @@
           logo: 
           url: https://hiddify.com/
           description: 针对中国、俄罗斯和伊朗的审查进行了优化
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
+        - title: v2rayN
+          logo: 
+          url: https://github.com/2dust/v2rayN
+          description: 支持 Xray 核心、v2fly 核心以及其他代理协议如 VMess、Shadowsocks、Trojan 等
+        - title: WinXray
+          logo: 
+          url: https://en.winxray.org/download/
+          description: 可自动检测并连接访问速度最快的 代理服务器
+        - title: NekoRay 
+          logo:
+          url: https://github.com/MatsuriDayo/nekoray
+          description: 支持SOCKS, HTTP, Shadowsocks, VMess, VLESS, Trojan, NaïveProxy, Hysteria 等协议
       
     - term: macOS
       links:
