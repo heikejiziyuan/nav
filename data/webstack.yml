@@ -120,9 +120,9 @@
         - title: WinXray
           logo: images/logos/WinXray.png
           url: https://en.winxray.org/download/
-          description: 可自动检测并连接访问速度最快的 代理服务器
+          description: 可自动检测并连接访问速度最快的代理服务器
         - title: NekoRay 
-          logo:images/logos/nekoray.png
+          logo: images/logos/nekoray.png
           url: https://github.com/MatsuriDayo/nekoray
           description: 支持SOCKS, HTTP, Shadowsocks, VMess, VLESS, Trojan, NaïveProxy, Hysteria 等协议
       
