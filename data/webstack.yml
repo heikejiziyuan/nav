@@ -125,6 +125,10 @@
           logo: images/logos/nekoray.png
           url: https://github.com/MatsuriDayo/nekoray
           description: 支持SOCKS, HTTP, Shadowsocks, VMess, VLESS, Trojan, NaïveProxy, Hysteria 等协议
+        - title: Pandora-Boxy
+          logo: images/logos/Pandora-Box.png
+          url: https://github.com/snakem982/Pandora-Box
+          description: 支持 Vmess、Vless、Shadowsocks、Trojan、Tuic、Hysteria、Hysteria2、Wireguard 以及 Juicity 等多种代理协议      
       
     - term: macOS
       links:
