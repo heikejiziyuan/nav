@@ -114,15 +114,15 @@
           url: https://hiddify.com/
           description: 针对中国、俄罗斯和伊朗的审查进行了优化
         - title: v2rayN
-          logo: 
+          logo: images/logos/v2rayN.png
           url: https://github.com/2dust/v2rayN
           description: 支持 Xray 核心、v2fly 核心以及其他代理协议如 VMess、Shadowsocks、Trojan 等
         - title: WinXray
-          logo: 
+          logo: images/logos/WinXray.png
           url: https://en.winxray.org/download/
           description: 可自动检测并连接访问速度最快的 代理服务器
         - title: NekoRay 
-          logo:
+          logo:images/logos/nekoray.png
           url: https://github.com/MatsuriDayo/nekoray
           description: 支持SOCKS, HTTP, Shadowsocks, VMess, VLESS, Trojan, NaïveProxy, Hysteria 等协议
       
