@@ -183,7 +183,15 @@
         - title: ClashX
           logo: images/logos/ClashX.png
           url: https://en.clashx.org/
-          description: 以帮助用户绕过网络限制，保护数据安全，并轻松访问区域受限的内容           
+          description: 以帮助用户绕过网络限制，保护数据安全，并轻松访问区域受限的内容 
+        - title: Pandora-Boxy
+          logo: images/logos/Pandora-Box.png
+          url: https://github.com/snakem982/Pandora-Box
+          description: 支持 Vmess、Vless、Shadowsocks、Trojan、Tuic、Hysteria、Hysteria2、Wireguard 以及 Juicity 等多种代理协议
+        - title: V2rayU
+          logo: images/logos/V2rayU.jpg
+          url: https://github.com/yanue/V2rayU/releases
+          description:          
       
     - term: iOS
       links:
