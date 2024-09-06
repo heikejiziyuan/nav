@@ -176,6 +176,14 @@
           logo: images/logos/GUI-for-SingBox.jpg
           url: https://github.com/GUI-for-Cores/GUI.for.SingBox
           description: 一款 SingBox 的 GUI 客户端
+        - title: sing-box
+          logo: images/logos/sing-box.png
+          url: https://github.com/SagerNet/sing-box
+          description: 支持多种代理协议和功能，如 V2Ray, Shadowsocks, Trojan, Reality, hysteria2 等 
+        - title: ClashX
+          logo: images/logos/ClashX.png
+          url: https://en.clashx.org/
+          description: 以帮助用户绕过网络限制，保护数据安全，并轻松访问区域受限的内容           
       
     - term: iOS
       links:
