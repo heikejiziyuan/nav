@@ -128,7 +128,16 @@
         - title: Pandora-Boxy
           logo: images/logos/Pandora-Box.png
           url: https://github.com/snakem982/Pandora-Box
-          description: 支持 Vmess、Vless、Shadowsocks、Trojan、Tuic、Hysteria、Hysteria2、Wireguard 以及 Juicity 等多种代理协议      
+          description: 支持 Vmess、Vless、Shadowsocks、Trojan、Tuic、Hysteria、Hysteria2、Wireguard 以及 Juicity 等多种代理协议
+        - title: GUI.for.Clash
+          logo: images/logos/GUI-for-Clash.jpg
+          url: https://github.com/GUI-for-Cores/GUI.for.Clash
+          description: 一款 Clash 的 GUI 客户端
+        - title: GUI.for.SingBox
+          logo: images/logos/GUI-for-SingBox.jpg
+          url: https://github.com/GUI-for-Cores/GUI.for.SingBox
+          description: 一款 SingBox 的 GUI 客户端
+          
       
     - term: macOS
       links:
