@@ -156,22 +156,26 @@
       
     - term: macOS
       links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-        - title: Collect UI
-          logo: images/logos/CollectUI.png
-          url: http://collectui.com/
-          description: Daily inspiration collected from daily ui archive and beyond.
-        - title: UI uigreat
-          logo: images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
-          description: APP界面截图参考
-        - title: Android Niceties
-          logo: images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+        - title: Hiddify
+          logo: 
+          url: https://hiddify.com/
+          description: 针对中国、俄罗斯和伊朗的审查进行了优化
+        - title: clash-verge-rev
+          logo: images/logos/clash-verge-rev.png
+          url: https://github.com/clash-verge-rev/clash-verge-rev
+          description: Clash Verge的接管延续版
+        - title: v2rayA
+          logo: images/logos/v2rayA.jpg
+          url: https://v2raya.org/
+          description: 一款免费开源的多平台代理工具  
+        - title: GUI.for.Clash
+          logo: images/logos/GUI-for-Clash.jpg
+          url: https://github.com/GUI-for-Cores/GUI.for.Clash
+          description: 一款 Clash 的 GUI 客户端
+        - title: GUI.for.SingBox
+          logo: images/logos/GUI-for-SingBox.jpg
+          url: https://github.com/GUI-for-Cores/GUI.for.SingBox
+          description: 一款 SingBox 的 GUI 客户端
       
     - term: iOS
       links:
