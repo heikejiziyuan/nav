@@ -137,7 +137,10 @@
           logo: images/logos/GUI-for-SingBox.jpg
           url: https://github.com/GUI-for-Cores/GUI.for.SingBox
           description: 一款 SingBox 的 GUI 客户端
-          
+        - title: v2rayA
+          logo: images/logos/v2rayA.jpg
+          url: https://v2raya.org/
+          description: 一款免费开源的多平台代理工具         
       
     - term: macOS
       links:
