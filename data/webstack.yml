@@ -148,7 +148,11 @@
         - title: nekoray
           logo: images/logos/nekoray.jpg
           url: https://github.com/MatsuriDayo/nekoray
-          description: 支持SOCKS, HTTP, Shadowsocks, VMess, VLESS, Trojan, NaïveProxy, Hysteria 等协议           
+          description: 支持SOCKS, HTTP, Shadowsocks, VMess, VLESS, Trojan, NaïveProxy, Hysteria 等协议 
+        - title: karing
+          logo: images/logos/karing.png
+          url: https://github.com/KaringX/karing
+          description: 一个支持多种代理协议和订阅规则的多平台客户端，支持Clash规则和订阅         
       
     - term: macOS
       links:
