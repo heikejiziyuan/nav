@@ -140,7 +140,11 @@
         - title: v2rayA
           logo: images/logos/v2rayA.jpg
           url: https://v2raya.org/
-          description: 一款免费开源的多平台代理工具         
+          description: 一款免费开源的多平台代理工具  
+        - title: sing-box
+          logo: images/logos/sing-box.png
+          url: https://github.com/SagerNet/sing-box
+          description: 支持多种代理协议和功能，如 V2Ray, Shadowsocks, Trojan, Reality, hysteria2 等              
       
     - term: macOS
       links:
