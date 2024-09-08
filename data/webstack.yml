@@ -203,10 +203,10 @@
       
     - term: iOS
       links:
-        - title: Awwwards
-          logo: images/logos/awwwards.png
-          url: https://www.awwwards.com/
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+        - title: Shadowrocket
+          logo: images/logos/Shadowrocket.webp
+          url: https://apps.apple.com/us/app/shadowrocket/id932747118
+          description: 经典小火箭
         - title: CSS Design Awards
           logo: images/logos/CSSDesignAwards.png
           url: https://www.cssdesignawards.com/
